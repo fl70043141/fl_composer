@@ -13,5 +13,6 @@
             "fl70043141\\HelloWorldPackage\\": "src/"
         }
     },
+    "minimum-stability": "dev",
     "require": {}
 }
