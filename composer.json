@@ -1,0 +1,16 @@
+{
+    "name": "fl70043141/fl_composer",
+    "description": "A hello world composer private package.",
+    "authors": [
+        {
+            "name": "fl70043141",
+            "email": "fl70043141@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "fl70043141\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
