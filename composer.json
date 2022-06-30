@@ -1,6 +1,7 @@
 {
     "name": "fl70043141/fl_composer",
     "description": "A hello world composer private package.",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "fl70043141",
